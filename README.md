@@ -6,7 +6,7 @@ This project was built as part of an effort to better understand state managemen
 
 
 ### Demo
-<video controls src="BulletinBoardApp.mp4" title="Title"></video>
+[Bulletion Board Demo video! Check it out!](https://drive.google.com/file/d/1O3IDkY94dS-FWtE_xY8sPlX2uiDXXMSE/view?usp=sharing)
 
 ## Features
 
